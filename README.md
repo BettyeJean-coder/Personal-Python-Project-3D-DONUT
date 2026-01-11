@@ -5,4 +5,4 @@
 - USES OOP AND ASCII PRINCIPALS
 - WORK BASED OFF OF Andy Sloane
 - Andy Sloane's Blog: https://www.a1k0n.net/
-
+- PLEASE CONTACT ME IF YOU LIKE MY WORK IN PYTHON 
